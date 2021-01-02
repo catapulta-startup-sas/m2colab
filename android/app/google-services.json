@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "400487580371",
+    "firebase_url": "https://manda-2.firebaseio.com",
+    "project_id": "manda-2",
+    "storage_bucket": "manda-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400487580371:android:0221a1a9adbbb5f825ca26",
+        "android_client_info": {
+          "package_name": "app.catapulta.manda2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400487580371-lpo230pcu43e4co6ts8ukbfskss624i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLGUBG0Ozer45o8pAz89TDM0-o0Ye-Jeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400487580371-lpo230pcu43e4co6ts8ukbfskss624i8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400487580371-6sh7vv6viqa3qisbn2hbhsh8esdn8786.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.catapulta.manda2domis",
+                "app_store_id": "1517168134"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400487580371:android:f54d09db1b083e6625ca26",
+        "android_client_info": {
+          "package_name": "app.catapulta.manda2domis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400487580371-s1vp79b6lie2tu3tvhqbh4ni8oa2i85k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.catapulta.manda2domis",
+            "certificate_hash": "79c96366d814af8e089749892dbf33999e2fd9ab"
+          }
+        },
+        {
+          "client_id": "400487580371-lpo230pcu43e4co6ts8ukbfskss624i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLGUBG0Ozer45o8pAz89TDM0-o0Ye-Jeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400487580371-lpo230pcu43e4co6ts8ukbfskss624i8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400487580371-6sh7vv6viqa3qisbn2hbhsh8esdn8786.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.catapulta.manda2domis",
+                "app_store_id": "1517168134"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
