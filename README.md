@@ -7,12 +7,12 @@ Manda2 Colaboradores
 Es esencial reemplazar el contenido del documento alert.dart de la dependencia rflutter_alert, con el código a continuación:
 
 /*
- * rflutter_alert
- * Created by Ratel
- * https://ratel.com.tr
- * 
- * Copyright (c) 2018 Ratel, LLC. All rights reserved.
- * See LICENSE for distribution and usage details.
+ rflutter_alert
+ Created by Ratel
+ https://ratel.com.tr
+  
+ Copyright (c) 2018 Ratel, LLC. All rights reserved.
+ See LICENSE for distribution and usage details.
  */
 import 'dart:async';
 
